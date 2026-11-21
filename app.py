@@ -3,7 +3,7 @@ import streamlit as st
 from supabase import create_client, Client
 
 # --- CSALÁDTAGOK LISTÁJA (írd át nyugodtan) ---
-CSALADTAGOK = ["Anya", "Apa", "Dodó", "Viki", "Bella","Kopi","Patrik"]
+CSALADTAGOK = ["Anya", "Apa", "Dodó", "Viki", "Bella","Kopi","Patrik","Mama","Sonny"]
 
 st.set_page_config(page_title="Karácsonyi Kívánságlista", page_icon="🎄", layout="wide")
 
